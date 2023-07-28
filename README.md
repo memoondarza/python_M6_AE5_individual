@@ -14,4 +14,6 @@ Personalice los aspectos que considere necesarios del Login.
 Actualice su proyecto en GITHUB.
 
 Es importante destacar que la aplicación tiene una aplicación previa, de tareas anteriores, por lo que tiene un trabajo inicial de Usuario.  
-Para no confundir con los "users", los llamé Clientes.   Entonces, la aplicación tiene un registro de clientes y sus listado y el trabajo con "users", con login y registro
+Para no confundir con los "users", los llamé Clientes.   Entonces, la aplicación tiene un registro de clientes y sus listado y el trabajo con "users", con login y registro.
+
+Solo los usuarios users registrados pueden ver el resto de la página web, que solamente un registro y listado de clientes.
